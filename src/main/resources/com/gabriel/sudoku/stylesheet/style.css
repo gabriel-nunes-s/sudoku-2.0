@@ -1,0 +1,11 @@
+
+.text-field {
+    -fx-background-color: white; /* Cor de fundo padrão */
+    -fx-border-width: 0.5;
+    -fx-border-style: solid;
+    -fx-border-color: gray;
+}
+
+.text-field:focused {
+    -fx-background-color: #b2d8d8; /* Cor de fundo ciano pastel ao focar */
+}
